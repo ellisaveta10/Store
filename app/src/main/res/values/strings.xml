@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Store</string>
+    <string name="offer_text">Don\'t miss our offer. Lorem ipsum. Lorem ipsum</string>
+    <string name="discount_text">Up to 50% discount on selected products</string>
+    <string name="learn_more">Learn more</string>
+    <string name="item_title">Title</string>
+    <string name="item_price">Price</string>
 </resources>
